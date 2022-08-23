@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T16:48:41.162Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36" version="20.2.6" etag="5FVGdhWhBnUkMIYUGp0G" type="github"><diagram id="XmLrhT_NZEFdG4MNhFYR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-23T17:07:35.878Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36" etag="HvAl7jxPSxInqzthqcvY" version="20.2.6" type="github">
+  <diagram id="XmLrhT_NZEFdG4MNhFYR" name="Page-1">
+    <mxGraphModel dx="1422" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-1" value="Bruger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-2" value="Kalender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-3" value="Arrangement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-4" value="Spørgeskema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-6" value="Opslag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-7" value="Forespørgsel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-8" value="Afdeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-9" value="Dokument" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtd9R73nv4WoVQgK9cCN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xtd9R73nv4WoVQgK9cCN-3" target="xtd9R73nv4WoVQgK9cCN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
