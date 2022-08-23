@@ -5,4 +5,12 @@
 layout: home
 ---
 # Introduktion
-BeboerTavlen er et kommunikationssystem, der gør det lettere for ejen
+BeboerTavlen er et kommunikationssystem, der gør det lettere for ejendomsadministratorer at ..
+<!--//TODO:Saba-->
+
+
+## Beskrivelse
+BeboerTavlen Core kan beskrives ved følgende komponent diagram
+![My helpful screenshot](/assets/kompontenter.drawio.png)
+
+
