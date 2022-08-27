@@ -1,7 +1,6 @@
 ---
-layout: page
-title: 
-nav_order: 1
+layout: default
+title: Arrangement
 parent: API Docs
 permalink: /api-docs/arrangement
 ---
@@ -11,7 +10,7 @@ Et arrangement kendertegner en begivenhed, som kan holdes i en boligafdeling. Da
 Det er muligt at hente oplysninger om, tilføje, opdatere eller slette et arrangement.
 
 ## Hent i en afdeling alle arrangementer
-Et GET kald på `https://tst-beboertavlen.azurewebsites.net/api/v1/Apartment/department/1002`, hvor nummer `1002` indikere afdelingsid'et, hvilket i dette tilfælde er 'Ahorn Allé 2 3.mf, 4100 Ringsted' , vil resultere i responsen
+Et GET kald på `https://tst-beboertavlen.azurewebsites.net/api/v1/Apartment/department/2`, hvor nummer `2` indikere afdelingsid'et, hvilket i dette tilfælde er 'Ahorn Allé 2 3.mf, 4100 Ringsted' , vil resultere i responsen
 
 ``` 
 {
