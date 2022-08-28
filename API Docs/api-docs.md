@@ -5,4 +5,4 @@ has_children: true
 permalink: /api-docs
 ---
 # API Dokumentation
-Dokumentation
+Dokumentation for API.
