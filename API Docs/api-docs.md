@@ -1,7 +1,8 @@
 ---
 layout: default
-title: API Docs
+title: API Dokumentation
 has_children: true
 permalink: /api-docs
 ---
-# API Docs 
+# API Dokumentation
+Dokumentation

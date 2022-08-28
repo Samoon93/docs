@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lejlighed
-parent: API Docs
+parent: API Dokumentation
 permalink: /api-docs/lejlighed
 ---
 # Introduktion til Lejligheder
@@ -10,7 +10,7 @@ En afdeling kendertegner en boligafdeling, hvor modellen indeholder oplysninger 
 Det er muligt at hente oplysninger om, tilføje, opdatere eller slette en lejlighed i en afdeling. 
 
 ## Hent i en afdeling alle lejligheder
-Et GET kald på `https://tst-beboertavlen.azurewebsites.net/api/v1/Apartment/department/2`, hvor nummer `2` indikere afdelingsid'et, hvilket i dette tilfælde er 'SønderParkvej, 4100 Ringsted', vil resultere i responsen.
+Et GET kald på `https://tst-beboertavlen.azurewebsites.net/api/v1/Apartment/department/2`, hvor `2` i URL'en indikerer afdelingsid'et, vil resultere i responsen.
 
 ``` 
 {      
